@@ -38,3 +38,5 @@ Total: $32.500 ARS (Arduino Uno, sensor PIR, potenciómetro, buzzer, LED RGB, pr
 - Sprint 2 (07/10 al 08/10): diagrama de flujo, código y simulación en Wokwi.
 - Sprint 3 (14/10 al 15/10): armado físico y README final.
 - Presentación (21/10): demo de 10 minutos.
+
+![alt text](image.png)
