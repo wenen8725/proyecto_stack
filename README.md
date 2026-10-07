@@ -14,10 +14,12 @@ Detectar intrusos en una zona del hogar cuando no hay nadie, avisando con luz y 
 - Sensor PIR para detectar movimiento.
 - LED RGB: verde si está seguro, rojo si detecta intruso.
 - Buzzer que suena si hay movimiento, con tono ajustable por potenciómetro.
+- Período de gracia de 5 segundos tras la detección de movimiento para permitir la desactivación con el botón.
 ## Requerimientos no funcionales
 - Responder en menos de 1 segundo.
 - Código comentado y fácil de leer.
 - Alimentación USB de 5V.
+- Bajo consumo de energía en modo de espera.
 ## Historia de usuario
 Como propietario de una vivienda, quiero que el sistema active luces y sonido al detectar un intruso, para darme cuenta y disuadir el acceso.
  
